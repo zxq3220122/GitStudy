@@ -18,7 +18,7 @@
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
     
-    NSLog(@"switch to dev-a");
+    NSLog(@"switch to dev-b");
 }
 
 
